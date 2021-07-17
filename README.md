@@ -1,6 +1,6 @@
 This is the initial assignment leveraging APIs. The Application Programming Interface (API) are used in combination with Python and JSON, to analyze weather data. </br>
 
-API Querying:
+💡 API Querying:
 <li>API Key was imported from external script and used as variable</li>
 <li>Loops over the list of cities</li>
 <li>No errors in the API call loop</li>
