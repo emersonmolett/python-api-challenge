@@ -7,7 +7,7 @@ API Querying:
 
 </br>
 
-Data Modeling:</br>
+💻 Data Modeling:
 
 A Pandas dataframe was created off the API call. The dataframe contained over 500 cities, with the following information successfully determined via coding: 
 <li>City latitude</li>
@@ -20,7 +20,7 @@ A Pandas dataframe was created off the API call. The dataframe contained over 50
 
 </br>
 
-Plot Creation: </br>
+🎨 Plot Creation: </br> 
 
 Using the previous information, a series of plots were created. The plots had axis and title tables. The plots include:
 <li>Latitude vs Temperature</li>
@@ -39,6 +39,18 @@ A linear regression was performed on the plot visuals, to further illustrate the
 <li>Southern Hemisphere – Cloudiness vs Latitude</li>
 <li>Northern Hemisphere – Wind Speed (mph) vs Latitude</li>
 <li>Southern Hemisphere – Wind Speed (mph) vs Latitude</li>
+
+</br>
+
+🧮 Data Analysis:
+</br>
+Based on the analysis performed, three (3) trends were provided via a written evaluation. This involves sound reasoning to support the proposed trends. 
+
+
+📍 Google Maps:
+</br>
+Finally, Google Maps were successfully created. The maps were created from the data modeling information. The maps were created using City, Country, Latitude, Longitude and Hotel Name, based on specified coding parameters. Additionally, clickable pins were displayed, showing the City, Country, and Hotel Name. 
+
 
 
 
